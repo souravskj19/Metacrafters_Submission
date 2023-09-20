@@ -17,9 +17,9 @@ Variables tokenName and tokenSymbol define the name and symbol of the token. tot
 
 **the contract defines several public variables:**
 
-tokenName: A string variable that represents the name of the token. 
-tokenSymbol: A string variable that represents the symbol or abbreviation of the token. 
-totalSupply: An unsigned integer variable that keeps track of the total supply of tokens.
+**tokenName:** A string variable that represents the name of the token. 
+**tokenSymbol:** A string variable that represents the symbol or abbreviation of the token. 
+**totalSupply:** An unsigned integer variable that keeps track of the total supply of tokens.
 
 **Balances Mapping:**
 
